@@ -13,5 +13,10 @@
         "title": "test",
         "text": "test",
         "note_id": "c88e0556-bacc-4581-ae28-38710d1c7106"
+    },
+    {
+        "title": "test title",
+        "text": "test note\n",
+        "note_id": "1653834f-d0d4-48fd-b99b-75210b3d4f26"
     }
 ]
